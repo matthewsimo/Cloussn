@@ -2,12 +2,12 @@
 
 
 // Define CloudApp User/Pass
-$cldlyme_user   = "matthew.a.simo@gmail.com";
-$cldlyme_pass   = "p0psicle";
+$cldlyme_user   = "Your_CloudApp_Email";
+$cldlyme_pass   = "Your_CloudApp_Password";
 
 // Define Lessn Info
-$lessn_domain   = 'http://mas.im/o/-/';
-$lessn_api_key  = 'ad553a87f9060f75cd971e93d8bddf21';
+$lessn_domain   = 'Domain_of_the_LESSN_add_link'; // Should end with: /-/
+$lessn_api_key  = 'Your_LESSN_API_key'; // Found on the above URL
 
 
 
